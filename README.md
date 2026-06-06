@@ -1,7 +1,8 @@
 <pre align="center"><code><b>Erfwn128/README.md</b></code></pre>
 <h1 align="center">Hi, ⚡ I'm Mohammad Erfan Arshad</h1>
+<img width="2000" height="400" alt="banner" src="https://github.com/user-attachments/assets/92145a44-239f-4b79-b365-bcda66e0cd6b" />
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=5000&pause=100&color=06B6D4&center=false&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+Expert;Python+Lover;Always+Learning" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=5000&pause=0&color=06B6D4&center=false&vCenter=true&width=500&deleteSpeed=10&lines=Frontend+Developer;React+%26+Next.js+Expert;Python+Lover;Always+Learning" alt="Typing SVG">
 </p>
 
 - ⚡ Fun fact: I talk to my code. Sometimes it talks back 👾
